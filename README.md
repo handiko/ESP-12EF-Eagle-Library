@@ -16,6 +16,11 @@ ESP-12E/F datasheet : [from kloppenborg.net](https://www.kloppenborg.net/images/
 * copy the `esp-12e-f.lbr` from **\ESP-12EF-Eagle-Library\lbr** into your Eagle library folder, for example : **C:\EAGLE-7.2.0\lbr**
 * Open the Eagle CAD, then **Library --> Use All**
 
+## Example
+Breakout board, 22 pins, standard 0.1 inch pin connector, single layer top copper PCB.
+![](./example_sch.png)
+![](./example_brd.png)
+
 ## TODO
 * Make a better example sch / board
 * Adding description to the Device
