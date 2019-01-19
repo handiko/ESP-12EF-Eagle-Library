@@ -15,3 +15,17 @@ ESP-12E/F datasheet : [from kloppenborg.net](https://www.kloppenborg.net/images/
 * Unzip
 * copy the `esp-12e-f.lbr` from **\ESP-12EF-Eagle-Library\lbr** into your Eagle library folder, for example : **C:\EAGLE-7.2.0\lbr**
 * Open the Eagle CAD, then **Library --> Use All**
+
+## TODO
+* Make a better example sch / board
+* Adding description to the Device
+* Better documentation / README
+* ...
+
+## Contributing
+1. Fork it (https://github.com/handiko/ESP-12EF-Eagle-Library/fork)
+2. Create new branch (`git checkout -b myfeature`)
+3. Do some editing / create new feature
+4. Commit your works (`git commit -m "Adding some myfeature blah blah blah.."`)
+5. Push to the branch (`git push -u origin myfeature`)
+6. Create a new Pull Request
