@@ -1,6 +1,6 @@
 # ESP-12E/F Eagle Library
 Eagle library for the barebone ESP-12E/F WiFi modules.
-ESP-12E/F datasheet : [from kloppenborg.net](https://www.kloppenborg.net/images/blog/esp8266/esp8266-esp12e-specs.pdf) or [from elecrow.com](https://www.elecrow.com/download/ESP-12F.pdf)
+ESP-12E/F datasheet can be found on [from kloppenborg.net](https://www.kloppenborg.net/images/blog/esp8266/esp8266-esp12e-specs.pdf) or [from elecrow.com](https://www.elecrow.com/download/ESP-12F.pdf)
 
 ## Installation
 ### Linux
