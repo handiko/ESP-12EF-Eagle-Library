@@ -8,7 +8,7 @@ ESP-12E/F datasheet can be found on [kloppenborg.net](https://www.kloppenborg.ne
 * `cd /ESP-12EF-Eagle-Library/lbr`
 * Copy the `esp-12e-f.lbr` into your Eagle library folder. For example, if your eagle library folder is located in `/opt/eagle-7.2.0/lbr`, then type: `sudo cp esp-12e-f.lbr /opt/eagle-7.2.0/lbr`
 * Open the Eagle CAD, then **Library ---> Use All**
-* Now the pga103.lbr should be listed in your Eagle library.
+* Now the esp12e.lbr should be listed in your Eagle library.
 
 ### Windows
 * Download as zip
